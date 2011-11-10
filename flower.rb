@@ -1,6 +1,6 @@
 require "kame"
 
-Kame.new(:background => :pink) do 
+Kame.new(:paper => :pink) do 
     forward 100
     turn_right 90
     forward 100
